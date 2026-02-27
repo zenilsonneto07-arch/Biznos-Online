@@ -1,0 +1,30 @@
+.body{
+    background: wheat;
+}
+.h1:hover{
+ transform: scale(1.3);
+ cursor: pointer;
+}
+
+.h2{
+    background: greenyellow;
+    margin-left: 100px;
+    margin-right: 1000px;
+}
+.img{
+    text-align: left;
+}
+.img:hover{
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+.img2:hover{
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.botao:hover{
+    background: greenyellow;
+    transform: scale(1.1);
+    cursor: pointer;
+}
