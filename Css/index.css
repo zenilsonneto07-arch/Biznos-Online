@@ -29,9 +29,7 @@
     transform: scale(1.3);
     cursor: pointer;
 box-shadow: 10px 10px 15px greenyellow;}
-.botao{
-    
-}
+
 .botao:hover{
     background: greenyellow;
     transform: scale(1.1);
@@ -57,9 +55,9 @@ border-radius: 1px;
     text-align: center;
     background: greenyellow;
     width: 60px;
-padding: 20px;
-border-radius: 5px;
+    padding: 20px;
+    border-radius: 5px;
 }
 .Botoes:hover{
-    transform: scale(1.5);
+    transform: scale(1.3);
 }
