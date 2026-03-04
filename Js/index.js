@@ -1,4 +1,8 @@
-alert("Compra De Diversos Para Alegrar o seu Dia");
 
-document.getElementById("texto").innerHTML = "Meu primeiro texto <b> JS </b>!";
+
+var a=2;
+var b=3;
+var c=a+b;
+alert(c)
+
 
