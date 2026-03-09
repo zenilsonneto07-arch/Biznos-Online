@@ -64,10 +64,20 @@ color: black;
     
 }
 
-.MediaSocial{
+.MediaSocialInstagram{
     border-radius: 50px;
 }
-.MediaSocial:hover{
+.MediaSocialWhatsapp{
+    border-radius: 50px;
+}
+.MediaSocialInstagram:hover{
+    box-shadow: 0px 0px 7px #ff0095 inset,  0px 0px 7px #ff0095;
+    text-align: center;
+transform: scale(1.1);
+cursor: pointer;
+}
+.MediaSocialWhatsapp:hover{
+    box-shadow: 0px 0px 7px greenyellow,  0px 0px 7px #6af889;
     text-align: center;
 transform: scale(1.1);
 cursor: pointer;
@@ -123,4 +133,12 @@ li a:hover, .dropdown:hover .dropbtn{
     display: inline-block;
     background: yellow;
 
+}
+.detalhes{
+    color: black; 
+;
+}
+.detalhes:hover{
+    transform: scale(1.1);
+    cursor: pointer;
 }
