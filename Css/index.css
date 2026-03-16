@@ -142,3 +142,21 @@ li a:hover, .dropdown:hover .dropbtn{
     transform: scale(1.1);
     cursor: pointer;
 }
+.Sobre-Nos{
+   margin-left: 643px;
+    text-align: center;
+   
+    color: blue;
+}
+.Sobre-Nos:hover{
+    transform: scale(1.5);
+}
+.salto{
+    animation: swing 1.6s infinite;
+    text-align: center;
+    margin-left: 600px;
+    margin-right: 600px;
+    background: greenyellow;
+    text-decoration: none;
+    cursor: pointer;
+}
