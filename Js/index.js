@@ -33,6 +33,10 @@ function doisclicks(){
 
 var hora = new Date().getHours();
 
+function onclick (){
 
+if (li >= 10px)
+    
+}
 
 

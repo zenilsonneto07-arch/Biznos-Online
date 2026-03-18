@@ -20,7 +20,7 @@
     display: inline;
 }
 .img:hover{
-    transform: scale(1.1);
+    transform: scale(1.5);
     cursor: pointer;
     box-shadow: 10px 10px 15px greenyellow;
 }
@@ -136,10 +136,10 @@ li a:hover, .dropdown:hover .dropbtn{
 }
 .detalhes{
     color: black; 
-;
+
 }
 .detalhes:hover{
-    transform: scale(1.1);
+   
     cursor: pointer;
 }
 .Sobre-Nos{
@@ -172,4 +172,9 @@ li a:hover, .dropdown:hover .dropbtn{
 .contacto:hover{
     transform: scale(1.2);
     cursor: pointer;
+}
+.ol{
+    
+    margin-left: -49px;
+
 }
