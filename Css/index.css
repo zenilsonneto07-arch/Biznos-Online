@@ -59,8 +59,7 @@ color: black;
 .Botoes:hover{
     transform: scale(1.10);
     cursor: pointer;
-    background: red;
-    color: white;
+    
     
 }
 
