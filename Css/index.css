@@ -42,6 +42,7 @@ background: greenyellow;
 border-radius: 3px;
 text-decoration: none;
 color: black;
+text-align: center;
 }
 .Encomendar:hover{
     transform: scale(1.2);
