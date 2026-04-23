@@ -63,6 +63,18 @@ text-align: center;
     
     
 }
+.BemVindo{
+  text-decoration: none;
+    text-align: center;
+    background: greenyellow;
+    width: 60px;
+    padding: 20px;
+    border-radius: 5px;   
+}
+.BemVindo:Hover{
+    transform: scale(1.5px);
+    background-color: yellow;
+}
 
 .MediaSocialInstagram{
     border-radius: 50px;
